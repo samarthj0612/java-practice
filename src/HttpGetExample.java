@@ -1,12 +1,14 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
+import java.net.URI;
 import java.net.URL;
 
 public class HttpGetExample {
     public static void main(String[] args) {
         try {
-            URL url = new URL("https://jsonplaceholder.typicode.com/posts/1");
+            // URL url = new URL("https://jsonplaceholder.typicode.com/posts/1");
+            URL url = URI.create("https://jsonplaceholder.typicode.com/posts/1").toURL();
             HttpURLConnection conn = (HttpURLConnection) url.openConnection();
             conn.setRequestMethod("GET");
 
