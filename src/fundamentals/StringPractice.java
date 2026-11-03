@@ -1,3 +1,5 @@
+package fundamentals;
+
 public class StringPractice {
   public static void main(String[] args) {
     String str1 = "Samarth"; // It creates a object in heap memory and store reference in the stack for str1 variable

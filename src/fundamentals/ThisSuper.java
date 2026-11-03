@@ -1,3 +1,5 @@
+package fundamentals;
+
 // Every class in Java is a subclass of the Object class.
 // The Object class is the root of the class hierarchy.
 // Every class has Object as a superclass.

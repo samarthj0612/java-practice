@@ -1,3 +1,5 @@
+package fundamentals;
+
 class AnonymousObject1{
   AnonymousObject1(){
     System.out.println("Object created");

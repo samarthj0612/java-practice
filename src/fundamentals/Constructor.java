@@ -1,3 +1,5 @@
+package fundamentals;
+
 // Constructor in Java is a block of code similar to a method that is called when an instance of an object is created. It is used to initialize the object. It can be used to set initial values for object attributes. A constructor has the same name as the class and does not have a return type.
 
 class Human {

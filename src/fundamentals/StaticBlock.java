@@ -1,3 +1,5 @@
+package fundamentals;
+
 class StaticBlock1{
   // Static Block
   // Static block is executed only once when the class is loaded into memory

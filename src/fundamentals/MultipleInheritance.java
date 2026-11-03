@@ -1,3 +1,5 @@
+package fundamentals;
+
 // Java does not support multiple inheritance with classes.
 // A class can only extend one superclass.
 // However, Java supports multiple inheritance through interfaces.

@@ -1,3 +1,5 @@
+package fundamentals;
+
 // Upcasting and Downcasting in Java
 // Upcasting: Converting a subclass reference to a superclass reference.
 // Downcasting: Converting a superclass reference back to a subclass reference.

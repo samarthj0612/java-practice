@@ -1,3 +1,5 @@
+package fundamentals;
+
 class ObjectClass1{
   int age;
   String name;

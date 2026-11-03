@@ -1,3 +1,5 @@
+package fundamentals;
+
 class Practice1{
   static String name;
 

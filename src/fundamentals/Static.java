@@ -1,3 +1,5 @@
+package fundamentals;
+
 class Static1{
   String name;
   static String email;

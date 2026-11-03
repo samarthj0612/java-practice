@@ -1,3 +1,5 @@
+package fundamentals;
+
 // Inheritance in Java is a mechanism where one class acquires the properties (fields) and behaviors (methods) of another class.
 // The class which inherits the properties of another is known as a subclass (or derived class, child class),
 // And the class whose properties are inherited is known as a superclass (or base class, parent class).

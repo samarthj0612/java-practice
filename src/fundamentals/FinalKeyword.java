@@ -1,3 +1,5 @@
+package fundamentals;
+
 // Final Keyword with class
 
 class FinalKeyword1 {

@@ -1,3 +1,5 @@
+package fundamentals;
+
 // Dynamic Method Dispatch is a mechanism by which a call to an overridden method is resolved at runtime rather than compile-time.
 // It is also known as runtime polymorphism. In Java, this is achieved through method overriding, where a subclass provides a specific implementation of a method that is already defined in its superclass.
 // The reference type determines what you can access, but the object type determines which overridden method runs
