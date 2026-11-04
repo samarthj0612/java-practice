@@ -32,9 +32,10 @@ public class AnonymousInnerClass {
         System.out.println("Inside Anonymous Inner Class");
       }
 
-      void display() {
-        System.out.println("Display method in Anonymous Inner Class");
-      }
+      // We cannot call this method using the reference of AnonymousInnerClass1 because it is not defined in the parent class. It is only defined in the anonymous inner class.
+      // void display() {
+      //   System.out.println("Display method in Anonymous Inner Class");
+      // }
     };
     anonymous3.show();
     // anonymous3.display(); // This will cause a compilation error because the reference type is AnonymousInnerClass1, which does not have a display() method.
